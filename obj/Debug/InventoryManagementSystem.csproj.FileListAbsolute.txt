@@ -1,0 +1,14 @@
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainScreen.resources
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.AddProductScreen.resources
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.AddPartScreen.resources
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ModifyPartScreen.resources
+E:\c#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ModifyProductScreen.resources
